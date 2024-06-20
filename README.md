@@ -1,6 +1,4 @@
 # ML-Flow-Titanic
-### Short Description for GitHub Repository
-
 ---
 
 ## Titanic Survival Analysis and Prediction
