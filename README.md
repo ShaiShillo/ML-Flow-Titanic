@@ -18,8 +18,8 @@ This repository contains a Jupyter Notebook that analyzes the Titanic disaster d
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/ShaiShillo/ML-Flow-Titanic.git
+   cd ML-Flow-Titanic
    ```
 
 2. **Install Dependencies**:
@@ -29,7 +29,7 @@ This repository contains a Jupyter Notebook that analyzes the Titanic disaster d
 
 3. **Run the Notebook**:
    ```bash
-   jupyter notebook Titanic_Survival_Analysis.ipynb
+   jupyter notebook ML_Flow.ipynb
    ```
 
 ### Acknowledgements
